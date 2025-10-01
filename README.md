@@ -105,6 +105,16 @@ A fun game against the computer:
 
 ---
 
+### 11. 🕒 Digital Clock (digital_clock.py)
+
+Displays a real-time digital clock using a GUI (Tkinter).
+- Shows hours, minutes, seconds, and AM/PM
+- Updates every second
+
+**Concepts Used:** tkinter module, strftime, GUI programming.
+
+---
+
 ## 🚀 How to Run
 Clone the repo:
 ```bash
