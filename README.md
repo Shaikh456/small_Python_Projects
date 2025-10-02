@@ -115,6 +115,20 @@ Displays a real-time digital clock using a GUI (Tkinter).
 
 ---
 
+### 12. ⚖️ BMI Calculator (bmi_calculator.py)
+
+Calculates Body Mass Index (BMI) and shows category based on WHO standards.
+- User enters weight (kg) and height (m)
+- Program calculates BMI and classifies into:
+- Underweight (< 18.5)
+- Normal weight (18.5 – 24.9)
+- Overweight (25 – 29.9)
+- Obesity (30 or higher)
+
+**Concepts Used:** Arithmetic, functions, conditionals, user input.
+
+---
+
 ## 🚀 How to Run
 Clone the repo:
 ```bash
