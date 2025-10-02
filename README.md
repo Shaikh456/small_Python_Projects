@@ -129,7 +129,7 @@ Calculates Body Mass Index (BMI) and shows category based on WHO standards.
 
 ---
 
-### 11. 🔑 Password Generator (password_generator.py)
+### 13. 🔑 Password Generator (password_generator.py)
 
 Generates a strong random password.
 - User chooses password length
